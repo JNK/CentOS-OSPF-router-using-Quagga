@@ -1,3 +1,7 @@
+![A](https://github.com/nu11secur1ty/CentOS-OSPF-router-using-Quagga/blob/master/photo/ospf.png)
+![A](https://github.com/nu11secur1ty/CentOS-OSPF-router-using-Quagga/blob/master/photo/BGP.jpg)
+
+
 Quagga is an open source routing software suite that can be used to turn your Linux box into a fully-fledged router that supports major routing protocols like RIP, OSPF, BGP or ISIS router. It has full provisions for IPv4 and IPv6, and supports route/prefix filtering. Quagga can be a life saver in case your production router is down, and you don't have a spare one at your disposal, so are waiting for a replacement. With proper configurations, Quagga can even be provisioned as a production router.
 
 In this tutorial, we will connect two hypothetical branch office networks (e.g., 192.168.1.0/24 and 172.17.1.0/24) that have a dedicated link between them.
