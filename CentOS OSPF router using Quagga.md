@@ -6,7 +6,7 @@ Quagga is an open source routing software suite that can be used to turn your Li
 
 In this tutorial, we will connect two hypothetical branch office networks (e.g., 192.168.1.0/24 and 172.17.1.0/24) that have a dedicated link between them.
 
-[!]15172727969_13cb7f037f_b
+![A](https://github.com/nu11secur1ty/CentOS-OSPF-router-using-Quagga/blob/master/photo/15172727969_13cb7f037f_b.jpg)
 
 
 Our CentOS boxes are located at both ends of the dedicated link. The hostnames of the two boxes are set as 'site-A-RTR' and 'site-B-RTR' respectively. IP address details are provided below.
@@ -319,7 +319,7 @@ site-A-RTR# show ip ospf neighbor
 chown quagga:quagga /etc/quagga/ospfd.conf
 ```
 
-[!]15160942468_d348241bd5_z
+![A](https://github.com/nu11secur1ty/CentOS-OSPF-router-using-Quagga/blob/master/photo/15160942468_d348241bd5_z.jpg)
 
 
 In this tutorial, we focused on configuring basic OSPF using Quagga. In general, Quagga allows us to easily configure a regular Linux box to speak dynamic routing protocols such as OSPF, RIP or BGP. Quagga-enabled boxes will be able to communicate and exchange routes with any other router that you may have in your network. Since it supports major open standard routing protocols, it may be a preferred choice in many scenarios. Better yet, Quagga's command line interface is almost identical to that of major router vendors like Cisco or Juniper, which makes deploying and maintaining Quagga boxes very easy.
