@@ -328,7 +328,7 @@ In this tutorial, we focused on configuring basic OSPF using Quagga. In general,
 -------------------------------------------------------------------------------------------------------
 # How to use Linux Quagga Routing Software Suite
 
-[]()
+[](https://github.com/nu11secur1ty/CentOS-OSPF-router-using-Quagga/blob/master/photo/SUSE.png)](https://www.suse.com/support/kb/doc/?id=7001452)
 
 # Have fun with nu11secur1ty =)
 
