@@ -324,6 +324,12 @@ chown quagga:quagga /etc/quagga/ospfd.conf
 
 In this tutorial, we focused on configuring basic OSPF using Quagga. In general, Quagga allows us to easily configure a regular Linux box to speak dynamic routing protocols such as OSPF, RIP or BGP. Quagga-enabled boxes will be able to communicate and exchange routes with any other router that you may have in your network. Since it supports major open standard routing protocols, it may be a preferred choice in many scenarios. Better yet, Quagga's command line interface is almost identical to that of major router vendors like Cisco or Juniper, which makes deploying and maintaining Quagga boxes very easy.
 
+
+-------------------------------------------------------------------------------------------------------
+# How to use Linux Quagga Routing Software Suite
+
+[]()
+
 # Have fun with nu11secur1ty =)
 
 
